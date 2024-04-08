@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./images/PCA_results_2.png" width="400" alt="PCA Ellipses" />
+<img src="./images/PCA_results_2.png" width="800" alt="PCA Ellipses" />
 
 </div>
 
